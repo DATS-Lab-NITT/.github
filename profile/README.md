@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there
 
-<# DATS Lab – NIT Tiruchirappalli
+# DATS Lab – NIT Tiruchirappalli
 
 ## About Us
 
