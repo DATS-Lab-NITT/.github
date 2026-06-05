@@ -14,7 +14,7 @@ DATS Lab conducts research in:
 
 ## Student Opportunities
 
-We welcome B.Tech, M.Tech, MCA, and PhD students to contribute to open-source research projects.
+B.Tech, M.Tech, MCA, and PhD students are welcome to contribute to open-source research projects.
 
 ## Repositories
 
